@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Airport/ndb.ac -45.41295 61.170744 49.89 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -45.407089 61.160414 187.47 180
+OBJECT_SHARED Models/Airport/thangar2.ac -45.4168983 61.1621423 39.55 50
+OBJECT_SHARED Models/Airport/hanger-45fx36f-white-01.xml -45.4170359 61.1623115 39.06 321.8
+OBJECT_SHARED Models/Airport/hanger-45fx36f-white-01.xml -45.4153633 61.1631312 39.12 320
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -45.4166836 61.1623 39.43 310.3
+OBJECT_SHARED Models/Transport/van_red.ac -45.416652 61.1624497 39.14 236
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -45.4167169 61.1624089 39.17 232
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -45.412668 61.1647639 40 320
